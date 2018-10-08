@@ -2,17 +2,3 @@ I'm a developer who's passitionate about coding and creating great products. I l
 
 I love to play video games in my free time; I'm a huge fan of the Dark Souls series. I like to play the 
 guitar and read too. I have an unhealthy addiction to Reddit and Coke Zero. Hit me up if you want me on your team and let's build great things together.
-
-
-<li class="item">
-                                    <span class="title"><strong>English:</strong></span>
-                                    <span class="level">Professional Proficiency <br class="visible-xs"/><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> </span>
-                                </li><!--//item-->
-                                <li class="item">
-                                    <span class="title"><strong>Hindi:</strong></span>
-                                    <span class="level">Working Proficiency <br class="visible-sm visible-xs"/><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-half"></i></span>
-                                </li><!--//item-->
-                                <li class="item">
-                                    <span class="title"><strong>Marathi:</strong></span>
-                                    <span class="level">Native Speaker <br class="visible-sm visible-xs"/><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-half"></i></span>
-                                </li><!--//item-->
